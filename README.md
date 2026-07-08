@@ -1,4 +1,4 @@
-Project Name: Inventory Management API
+Project Name: Inventory Management API\
 Author: Eric Vazquez
 
 Languages, API, Tools: 
